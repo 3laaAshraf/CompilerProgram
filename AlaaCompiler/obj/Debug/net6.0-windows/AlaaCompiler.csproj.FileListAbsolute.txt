@@ -1,0 +1,40 @@
+D:\Alaa-Compiler-\Arabic Compiler v2\bin\Debug\net6.0-windows\AlaaCompiler.exe
+D:\Alaa-Compiler-\Arabic Compiler v2\bin\Debug\net6.0-windows\AlaaCompiler.deps.json
+D:\Alaa-Compiler-\Arabic Compiler v2\bin\Debug\net6.0-windows\AlaaCompiler.runtimeconfig.json
+D:\Alaa-Compiler-\Arabic Compiler v2\bin\Debug\net6.0-windows\AlaaCompiler.dll
+D:\Alaa-Compiler-\Arabic Compiler v2\bin\Debug\net6.0-windows\AlaaCompiler.pdb
+D:\Alaa-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Alaa-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Alaa-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\App.g.cs
+D:\Alaa-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\AlaaCompiler_MarkupCompile.cache
+D:\Alaa-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\AlaaCompiler.g.resources
+D:\Alaa-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\AlaaCompiler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alaa-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\AlaaCompiler.AssemblyInfoInputs.cache
+D:\Alaa-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\AlaaCompiler.AssemblyInfo.cs
+D:\Alaa-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\AlaaCompiler.csproj.CoreCompileInputs.cache
+D:\Alaa-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\AlaaCompiler.sourcelink.json
+D:\Alaa-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\AlaaCompiler.dll
+D:\Alaa-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\refint\AlaaCompiler.dll
+D:\Alaa-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\AlaaCompiler.pdb
+D:\Alaa-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\AlaaCompiler.genruntimeconfig.cache
+D:\Alaa-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\ref\AlaaCompiler.dll
+D:\Alaa-Compiler-\AlaaCompiler\bin\Debug\net6.0-windows\AlaaCompiler.exe
+D:\Alaa-Compiler-\AlaaCompiler\bin\Debug\net6.0-windows\AlaaCompiler.deps.json
+D:\Alaa-Compiler-\AlaaCompiler\bin\Debug\net6.0-windows\AlaaCompiler.runtimeconfig.json
+D:\Alaa-Compiler-\AlaaCompiler\bin\Debug\net6.0-windows\AlaaCompiler.dll
+D:\Alaa-Compiler-\AlaaCompiler\bin\Debug\net6.0-windows\AlaaCompiler.pdb
+D:\Alaa-Compiler-\AlaaCompiler\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Alaa-Compiler-\AlaaCompiler\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Alaa-Compiler-\AlaaCompiler\obj\Debug\net6.0-windows\App.g.cs
+D:\Alaa-Compiler-\AlaaCompiler\obj\Debug\net6.0-windows\AlaaCompiler_MarkupCompile.cache
+D:\Alaa-Compiler-\AlaaCompiler\obj\Debug\net6.0-windows\AlaaCompiler.g.resources
+D:\Alaa-Compiler-\AlaaCompiler\obj\Debug\net6.0-windows\AlaaCompiler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alaa-Compiler-\AlaaCompiler\obj\Debug\net6.0-windows\AlaaCompiler.AssemblyInfoInputs.cache
+D:\Alaa-Compiler-\AlaaCompiler\obj\Debug\net6.0-windows\AlaaCompiler.AssemblyInfo.cs
+D:\Alaa-Compiler-\AlaaCompiler\obj\Debug\net6.0-windows\AlaaCompiler.csproj.CoreCompileInputs.cache
+D:\Alaa-Compiler-\AlaaCompiler\obj\Debug\net6.0-windows\AlaaCompiler.sourcelink.json
+D:\Alaa-Compiler-\AlaaCompiler\obj\Debug\net6.0-windows\AlaaCompiler.dll
+D:\Alaa-Compiler-\AlaaCompiler\obj\Debug\net6.0-windows\refint\AlaaCompiler.dll
+D:\Alaa-Compiler-\AlaaCompiler\obj\Debug\net6.0-windows\AlaaCompiler.pdb
+D:\Alaa-Compiler-\AlaaCompiler\obj\Debug\net6.0-windows\AlaaCompiler.genruntimeconfig.cache
+D:\Alaa-Compiler-\AlaaCompiler\obj\Debug\net6.0-windows\ref\AlaaCompiler.dll

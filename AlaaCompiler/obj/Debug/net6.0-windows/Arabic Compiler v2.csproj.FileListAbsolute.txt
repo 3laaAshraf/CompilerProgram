@@ -1,0 +1,40 @@
+D:\DOWNLOADS\Arabic-Compiler-\Arabic Compiler v2\bin\Debug\net6.0-windows\Arabic Compiler v2.exe
+D:\DOWNLOADS\Arabic-Compiler-\Arabic Compiler v2\bin\Debug\net6.0-windows\Arabic Compiler v2.deps.json
+D:\DOWNLOADS\Arabic-Compiler-\Arabic Compiler v2\bin\Debug\net6.0-windows\Arabic Compiler v2.runtimeconfig.json
+D:\DOWNLOADS\Arabic-Compiler-\Arabic Compiler v2\bin\Debug\net6.0-windows\Arabic Compiler v2.dll
+D:\DOWNLOADS\Arabic-Compiler-\Arabic Compiler v2\bin\Debug\net6.0-windows\Arabic Compiler v2.pdb
+D:\DOWNLOADS\Arabic-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\MainWindow.baml
+D:\DOWNLOADS\Arabic-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\DOWNLOADS\Arabic-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\App.g.cs
+D:\DOWNLOADS\Arabic-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\Arabic Compiler v2_MarkupCompile.cache
+D:\DOWNLOADS\Arabic-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\Arabic Compiler v2.g.resources
+D:\DOWNLOADS\Arabic-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\Arabic Compiler v2.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOWNLOADS\Arabic-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\Arabic Compiler v2.AssemblyInfoInputs.cache
+D:\DOWNLOADS\Arabic-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\Arabic Compiler v2.AssemblyInfo.cs
+D:\DOWNLOADS\Arabic-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\Arabic Compiler v2.csproj.CoreCompileInputs.cache
+D:\DOWNLOADS\Arabic-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\Arabic Compiler v2.sourcelink.json
+D:\DOWNLOADS\Arabic-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\Arabic Compiler v2.dll
+D:\DOWNLOADS\Arabic-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\refint\Arabic Compiler v2.dll
+D:\DOWNLOADS\Arabic-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\Arabic Compiler v2.pdb
+D:\DOWNLOADS\Arabic-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\Arabic Compiler v2.genruntimeconfig.cache
+D:\DOWNLOADS\Arabic-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\ref\Arabic Compiler v2.dll
+D:\Alaa-Compiler-\Arabic Compiler v2\bin\Debug\net6.0-windows\Arabic Compiler v2.exe
+D:\Alaa-Compiler-\Arabic Compiler v2\bin\Debug\net6.0-windows\Arabic Compiler v2.deps.json
+D:\Alaa-Compiler-\Arabic Compiler v2\bin\Debug\net6.0-windows\Arabic Compiler v2.runtimeconfig.json
+D:\Alaa-Compiler-\Arabic Compiler v2\bin\Debug\net6.0-windows\Arabic Compiler v2.dll
+D:\Alaa-Compiler-\Arabic Compiler v2\bin\Debug\net6.0-windows\Arabic Compiler v2.pdb
+D:\Alaa-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Alaa-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Alaa-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\App.g.cs
+D:\Alaa-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\Arabic Compiler v2_MarkupCompile.cache
+D:\Alaa-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\Arabic Compiler v2.g.resources
+D:\Alaa-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\Arabic Compiler v2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alaa-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\Arabic Compiler v2.AssemblyInfoInputs.cache
+D:\Alaa-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\Arabic Compiler v2.AssemblyInfo.cs
+D:\Alaa-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\Arabic Compiler v2.csproj.CoreCompileInputs.cache
+D:\Alaa-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\Arabic Compiler v2.sourcelink.json
+D:\Alaa-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\Arabic Compiler v2.dll
+D:\Alaa-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\refint\Arabic Compiler v2.dll
+D:\Alaa-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\Arabic Compiler v2.pdb
+D:\Alaa-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\Arabic Compiler v2.genruntimeconfig.cache
+D:\Alaa-Compiler-\Arabic Compiler v2\obj\Debug\net6.0-windows\ref\Arabic Compiler v2.dll
